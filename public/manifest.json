@@ -1,0 +1,21 @@
+
+{
+  "short_name": "Digi Press",
+  "name": "Digi Press Studio",
+  "icons": [
+    {
+      "src": "logo192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ca8a04",
+  "background_color": "#000000"
+}
